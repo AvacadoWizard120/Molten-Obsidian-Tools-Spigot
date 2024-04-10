@@ -1,0 +1,8 @@
+name: Molten Obsidian Tools
+version: '${version}'
+main: io.github.avacadowizard120.moltenobsidiantoolspaper.MoltenObsidianTools
+api-version: '1.20'
+load: STARTUP
+authors: [Eden Urias]
+description: Have you ever been tired of crafting new diamond tools when one breaks? Well, now you can give your diamond tools an upgrade with molten obsidian!\n\nNow you can blast obsidian in a blast furnace to get Molten Obsidian, use the Molten Obsidian in a Smithing Table with your diamond tool and you get a Molten Obsidian tool!\n\nYou can now also reinforce your netherite tools!\nCheck JEI for recipes.
+website: https://youtube.com/@ConfusingFool93
